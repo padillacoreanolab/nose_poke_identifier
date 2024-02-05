@@ -17,5 +17,7 @@ conda install -c conda-forge seaborn --yes
 # To look at h5 files
 conda install -c conda-forge h5py --yes
 
+# To read in excel files
+conda install conda-forge::openpyxl --yes
 
 ```
